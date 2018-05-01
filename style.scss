@@ -18,17 +18,39 @@ html {
 }
 
 body {
-	background: $white;
-  font: 18px/1.4 $helvetica;
+	background: linear-gradient(blue, red);
+  font: 18px/1.4 "Georgia";
   color: $darkGray;
 }
 
 .container {
+  
   margin: 0 auto;
   max-width: 740px;
   padding: 0 10px;
   width: 100%;
 }
+//table rules
+table {
+    border-collapse: collapse;
+}
+
+th {
+	background-color: rgba(244, 78, 66, 0.6);
+}
+
+td {
+	background-color: rgba(255, 187, 15, 0.6);
+}
+
+table, td, th {
+	padding-right: 20px;
+    border: 1px solid black;
+}
+//end of table rules
+
+
+
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
