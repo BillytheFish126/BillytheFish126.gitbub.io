@@ -19,7 +19,7 @@ published: true
 <table>
   <tr>
     <td>Starting point:</td>
-    <td>Have done quite a bit of Python</td>
+    <td><img src="https://i.imgur.com/3lAxGGL.png"/> Have done quite a bit of Python</td>
   </tr>
   <tr>
     <td>Target for this Lesson?</td>
