@@ -25,15 +25,15 @@ body {
 }
 .container {
 
-  box-shadow: 20px 20px 10px rgba(0, 102, 255, 0.7);
+  box-shadow: 20px 20px 10px rgba(0, 0, 0, 0.7);
   margin: 0 auto;
   max-width: 850px;
   padding: 0 10px;
   width: 100%;
-  background: linear-gradient(rgb(51, 204, 255), rgb(0,5,10));
+  background: linear-gradient(rgb(138, 0, 0), rgb(0, 0, 0));
   border-radius: 25px;
   padding: 20px;
-  border-bottom: 1.5px rgb(0, 255, 255);
+  border-bottom: 1.5px rgb(138, 0, 0);
 }
 
 h1, h2, h3, h4, h5, h6 {
