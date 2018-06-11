@@ -19,7 +19,7 @@ published: true
 <table>
   <tr>
     <td>Starting point:</td>
-    <td><img src="https://imgur.com/a/izVbim0"/> Have done quite a lot of Python</td>
+    <td><blockquote class="imgur-embed-pub" lang="en" data-id="a/izVbim0"><a href="//imgur.com/izVbim0"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script> Have done quite a lot of Python</td>
   </tr>
   <tr>
     <td>Target for this Lesson?</td>
