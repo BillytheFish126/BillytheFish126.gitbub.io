@@ -1,5 +1,5 @@
 ---
-title: Fifth Blog
+title: Sixth Blog
 layout: post
 author: william.grief-king
 permalink: /fifth-blog/
@@ -9,9 +9,9 @@ published: true
 <table>
   <tr>
     <td>Title:</td>
-    <td>Python Blog 05</td>
+    <td>Python Blog 06</td>
     <td>Date:</td>
-    <td>17/06/18</td>
+    <td>21/06/18</td>
   </tr>
 </table>
 
@@ -19,16 +19,16 @@ published: true
 <table>
   <tr>
     <td>Starting point:</td>
-    <td>Have done quite a lot of Python</td>
+    <td>Have done  a lot of Python</td>
   </tr>
   <tr>
     <td>Target for this Lesson?</td>
-    <td>Learn and complete even more Python </td>
+    <td>Learn and complete more Python </td>
   </tr>
   <tr>
     <td>Did I reach my target? 
 </td>
-    <td>Yes, definitely </td>
+    <td>Yes</td>
   </tr>
 </table>
 
@@ -41,19 +41,19 @@ published: true
     <td>How did I learn? What strategies were effective? </td>
   </tr>
   <tr>
-    <td>In this lesson I was able to go through tons of code, I have gone through about 20% more of the course in this lesson. I am extremely pleased with the amount of work I have done, as I think that it shows the amount of effort that I have put in. I am now 55% through the course and have acquired 13 badges in the process. I am currently working on the "battleship" piece. The strategy that I found effective was (again) just going through the work at a steady pace, and making sure that I read the instructions on the left correctly for the first time so that I didn't have to keep re-reading. This was particularly important, as it allowed me to go through the work much faster, and I think that is reflected in the amount of work I was able to complete in the lesson. </td>
+    <td>I learnt by making sure that the code that I put in was in line with the instructions on the left. This was a very effective strategy, as it meant that I only had to put in my code once, because I was looking at the example and how I was supposed to do it. In this lesson, I was able to complete the courses Battleship!, Loops, and Practise makes Perfect. I found practise makes perfect very useful, as it made me go over some of the stuff that I'd done in previous courses and previous lessons. This allowed me to refresh my memory on how to do some of the programs. This was very effective.</td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
   </tr>
   <tr>
-    <td>The thing that limited my learning was (again) the small things, eg: not putting the speech marks around strings. However, this did happen a lot less this lesson, so I have definitely taken my own advice form the last blog, but I do need to still take heed. This is pretty much the only habit that I need to work on, but if I had to name one other thing, I suppose it would be that I still go and help other people before completing a good amount of work in the lesson. This also isn’t happening as much any more, but I’m sure it will stop very soon, as it has been going down in the last few lessons.</td>
+    <td>Nothing really limited my learning this lesson, but if I had to say one thing I suppose it would be that I could work a little bit faster. This would help me finish the course sooner and then I would be able to move onto html faster. The habit that I need to work on is as soon as I get into the classroom, I just need to sign in, open up this blog and then just open up codecademy and get straight into it so that I can get the maximum amount of work done in the lesson as possible. </td>
   </tr>
   <tr>
     <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
-    <td>The thing that I will change for next time is that I will make sure that what I code is correct the first time that I type it, I will also make sure that I have completed an adequate amount of work before I go on and help others (if they need it). This will make me more fast and efficient in the lesson. I will improve my learning by really absorbing all the code that I do in the lesson. I am looking forward to continuing coding my battleship game next lesson!</td>
+    <td>The thing that I will change for next time is that I will settle down right at the beginning and then get the maximum amount of work done as possible in the hour that we have. To improve my learning, I will just work faster. This will allow me to reach new "levels" in the python coursework, so I will learn more. </td>
   </tr>
 </table>
 
