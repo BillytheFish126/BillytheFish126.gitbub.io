@@ -41,7 +41,9 @@ published: true
     <td>How did I learn? What strategies were effective? </td>
   </tr>
   <tr>
-    <td>I learnt by making sure that the code that I put in was in line with the instructions on the left. This was a very effective strategy, as it meant that I only had to put in my code once, because I was looking at the example and how I was supposed to do it. In this lesson, I was able to complete the courses Battleship!, Loops, and Practise makes Perfect. I found practise makes perfect very useful, as it made me go over some of the stuff that I'd done in previous courses and previous lessons. This allowed me to refresh my memory on how to do some of the programs. This was very effective.</td>
+    <td>I learnt by making sure that the code that I put in was in line with the instructions on the left. This was a very effective strategy, as it meant that I only had to put in my code once, because I was looking at the example and how I was supposed to do it. In this lesson, I was able to complete the courses Battleship!, Loops, and Practise makes Perfect. I found practise makes perfect very useful, as it made me go over some of the stuff that I'd done in previous courses and previous lessons. This allowed me to refresh my memory on how to do some of the programs. This was very effective.
+    <iframe src="https://drive.google.com/file/d/1iGI2ElPNV2qBN8oczRtpcLRaHQLAXAtf/preview" width="640" height="480"></iframe>
+    </td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
