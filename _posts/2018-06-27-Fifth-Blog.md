@@ -41,7 +41,9 @@ published: true
     <td>How did I learn? What strategies were effective? </td>
   </tr>
   <tr>
-    <td>I learnt by just going through the code in a very sensible order. Using this technique, I was able to complete seven sections of code, also seven badges (one of these I was very close to finishing last lesson). I am extremely pleased with the progress made. I have also just started the, "battleship!" section and look forward to continuing that in the next lesson. The strategy that I found effective was just ploughing through the work, not as fast as possible, but obviously I did work fast, but by just not making many errors, and the few errors that I did make were small and did not greatly hinder me. </td>
+    <td>I learnt by just going through the code in a very sensible order. Using this technique, I was able to complete seven sections of code, also seven badges (one of these I was very close to finishing last lesson). I am extremely pleased with the progress made. I have also just started the, "battleship!" section and look forward to continuing that in the next lesson. The strategy that I found effective was just ploughing through the work, not as fast as possible, but obviously I did work fast, but by just not making many errors, and the few errors that I did make were small and did not greatly hinder me. 
+    <iframe src="https://drive.google.com/file/d/14eXuWT3r17PggKfMaj-UnSs6pgBAPXGh/preview" width="640" height="480"></iframe>
+    </td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
