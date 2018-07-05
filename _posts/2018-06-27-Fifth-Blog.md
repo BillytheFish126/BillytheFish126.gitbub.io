@@ -49,7 +49,9 @@ published: true
     <td>What limited my learning? Which habits do I need to work on? </td>
   </tr>
   <tr>
-    <td>The thing that limited my learning was (again) all the tiny errors that I made, eg: not putting speech marks around strings and other stuff like that. This is the thing that I do really need to work on and get sorted. Apart from that, there wasn't really anything that I could have done in the lesson to speed up my working process. The habit that I need to work on is not going over to other people and getting distracted from my own work. This is extremely important, as being able to work for long periods of time is very useful and will allow me to proceed quicker. </td>
+    <td>The thing that limited my learning was (again) all the tiny errors that I made, eg: not putting speech marks around strings and other stuff like that. This is the thing that I do really need to work on and get sorted. Apart from that, there wasn't really anything that I could have done in the lesson to speed up my working process. The habit that I need to work on is not going over to other people and getting distracted from my own work. This is extremely important, as being able to work for long periods of time is very useful and will allow me to proceed quicker. 
+    <iframe src="https://drive.google.com/file/d/1FocvxszWOClYDBUKQNxJyaEQ6QuC6c89/preview" width="640" height="480"></iframe>
+    </td>
   </tr>
   <tr>
     <td>What will I change for next time? How will I improve my learning?</td>
