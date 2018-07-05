@@ -2,7 +2,7 @@
 title: Sixth Blog
 layout: post
 author: william.grief-king
-permalink: /fifth-blog/
+permalink: /sixth-blog/
 source-id: 1i-CEG0LWxtUJCWCTWEoT2fHLeijlvJg06t-UiVjUeTU
 published: true
 ---
