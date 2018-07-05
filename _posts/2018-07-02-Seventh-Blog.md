@@ -41,7 +41,8 @@ published: true
     <td>How did I learn? What strategies were effective? </td>
   </tr>
   <tr>
-    <td>In the lesson today I was able to complete three sections and I am now 85% through the course. This lesson, I was able to complete the courses Exam Statistics, Advanced Topics in Python and an Introduction to Bitwise Operators. I learnt in the Advanced Topics in Python section by thinking back to my previous work and just inputting that into the advanced work with the added material that was required for the certain question at hand. This was an extremely effective strategy for the advanced section. For the others, I just worked strategically and I think it paid off. </td>
+    <td>In the lesson today I was able to complete three sections and I am now 85% through the course. This lesson, I was able to complete the courses Exam Statistics, Advanced Topics in Python and an Introduction to Bitwise Operators. I learnt in the Advanced Topics in Python section by thinking back to my previous work and just inputting that into the advanced work with the added material that was required for the certain question at hand. This was an extremely effective strategy for the advanced section. For the others, I just worked strategically and I think it paid off. 
+    <iframe src="https://drive.google.com/file/d/17_akbu7WGrxOi3RTUpWoOxpJOucmKMFt/preview" width="640" height="480"></iframe> </td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
